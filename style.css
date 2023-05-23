@@ -1,0 +1,40 @@
+
+    .header {
+        background-color: white;
+        padding: 5px;
+        position: relative;
+        text-align: center;
+        box-shadow: 0 14px 14px -14px gray;
+      }
+    .headerlogo {
+        float: left;
+     overflow: hidden;
+     height: 70px;
+    padding-top: 35px;
+    align-items: center;
+    }
+
+    .nav {
+        padding: 5px;
+        background-color: rgb(76, 105, 105);
+        width:auto;
+    }
+
+
+    .afbeeldingen {
+        align-items: center;
+        padding: 15px;
+        width: fit-content;
+    }
+
+    .audio {
+        padding-inline: 5%;
+        align-content: center;
+    }
+
+    .YTvideo {
+        padding-top: 5px;
+        box-shadow: 0 14px 14px -14px gainsboro ;
+
+
+    }
